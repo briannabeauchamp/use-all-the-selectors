@@ -37,7 +37,8 @@ a {
 .no-highlight {
   background-color: #fdf6e3;
 }
-/*idk*/
-h2 + ul + last child {
+
+/* idk */
+h2 + ul + lastchild {
   background-color: #2694d8;
 }
