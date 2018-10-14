@@ -34,19 +34,13 @@ a {
   background-color: #719e07;
 }
 
-/*idk*/
-
-.external {
-  background-color: #2694d8;
-}
-
 .no-highlight {
   background-color: #fdf6e3;
 }
 
 /* idk */
 
-ul li:last-child {
+.contents li:nth-child(3) {
   background-color: #2694d8;
 }
 
